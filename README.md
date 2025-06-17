@@ -1,4 +1,4 @@
-# AI Assignment 1
+# ISM Assignment 1
 
 Author: [Student Name]
 Student ID: 102301
